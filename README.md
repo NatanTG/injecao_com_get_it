@@ -1,16 +1,13 @@
 # injecao_com_get_it
 
-A new Flutter project.
+# Estudo do Pacote `get_it` com Flutter
 
-## Getting Started
+Este repositório foi criado com o objetivo de estudar o uso do pacote `get_it` no Flutter. O `get_it` é utilizado para gerenciar dependências e facilitar a injeção de dependências, promovendo um código mais organizado e modular.
 
-This project is a starting point for a Flutter application.
+Aqui você encontrará exemplo demonstrando como utilizar o `get_it` em projetos Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Como Executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/estudo-get-it-flutter.git
